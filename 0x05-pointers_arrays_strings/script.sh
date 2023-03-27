@@ -22,3 +22,7 @@ git commit -m "$commit_message"
 
 # Push changes
 git push
+
+# clear the screen to start again
+clear
+
